@@ -1,5 +1,7 @@
+#Chat Application: OuickChat
 This project is designed to provide real-time communication between users through an intuitive and feature-rich chat interface. Built with modern technologies, the application ensures a seamless user experience, robust performance, and secure communication.
-Features:
+
+#Features:
 1. Real-Time Messaging: Instant communication with other users through live message updates.
 2. User Authentication: Secure user registration and login functionality with password protection.
 3. Direct Messaging: Private, one-on-one conversations with other users.
@@ -8,7 +10,8 @@ Features:
 6. Online/Offline Status: See the availability of other users.
 7. Themes: Toogle between 32 different themes.
 8. Update Profile: Update profile by putting profile photo.
-Technologies Used
+   
+#Technologies Used
 1. Frontend: React.js for a dynamic and interactive user interface.
 2. Backend: Node.js with Express.js for scalable and efficient server-side operations.
 3. Database: MongoDB for storing user data and chat history securely.
