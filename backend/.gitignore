@@ -1,0 +1,62 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Cache directories
+.nyc_output/
+coverage/
+.cache/
+.next/
+out/
+.vscode/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.swp
+
+# Heroku
+*.env.*.bak
+*.env.*.example
+
+# npm
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Debugging
+*.log
+*.targz
+
+# Temporary files
+*.tmp
+*.temp
