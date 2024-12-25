@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
-    "start":"node index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +13,7 @@
   "description": "",
   "dependencies": {
     "bcrypt": "^5.1.1",
+    "chat-app": "file:..",
     "cloudinary": "^2.5.1",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
